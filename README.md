@@ -1,4 +1,3 @@
-
 # Smart Healthcare System 
 
 The objective is to create online healthcare system that can predict the disease according to the symptoms given by the user and also seeks to solve this problem by enabling patients to get instant healthcare advice and locating to local healthcare practitioners.
