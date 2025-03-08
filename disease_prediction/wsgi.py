@@ -1,5 +1,5 @@
 """
-WSGI config for disease_prediction project.
+WSGI config for disease_prediction project. 
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
