@@ -1,5 +1,5 @@
 """
-ASGI config for disease_prediction project.
+ASGI config for disease_prediction project. 
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
