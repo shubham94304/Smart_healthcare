@@ -6,7 +6,7 @@ from django.contrib.auth import login, logout, authenticate
 from .models import Report, database, doc_DB
 import io
 from django.http import FileResponse
-from reportlab.pdfgen import canvas
+from reportlab.pdfgen import canvas 
 #superuser id: admin
 #superuser password: admin
 
