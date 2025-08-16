@@ -1,7 +1,7 @@
 from django.db import models
 from django.contrib.auth.models import User
 
-class Report(models.Model):
+class Report(models.Model): 
     name = models.CharField(max_length=50)
     age = models. IntegerField()
     gender = models.CharField(max_length=30)
